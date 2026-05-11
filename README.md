@@ -1,6 +1,6 @@
-# 📊 Projeto de Machine Learning – Eficiência Energética de Edificações
+# Projeto de Machine Learning – Eficiência Energética de Edificações
 
-## 📌 Descrição
+## Descrição
 
 Este projeto tem como objetivo prever o consumo energético de edificações com base em características estruturais, utilizando técnicas de Machine Learning.
 
@@ -8,13 +8,13 @@ O estudo foi inspirado em conceitos de análise de dados e Controle Estatístico
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Construir um modelo preditivo capaz de estimar o consumo energético (Heating Load) a partir de variáveis estruturais das edificações.
 
 ---
 
-## 🧠 Problema
+## Problema
 
 Trata-se de um problema de aprendizado supervisionado:
 
@@ -23,15 +23,15 @@ Trata-se de um problema de aprendizado supervisionado:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 Base de dados utilizada:
 
-🔗 https://archive.ics.uci.edu/ml/machine-learning-databases/00242/ENB2012_data.xlsx
+https://archive.ics.uci.edu/ml/machine-learning-databases/00242/ENB2012_data.xlsx
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * Python
 * Pandas
@@ -41,7 +41,7 @@ Base de dados utilizada:
 
 ---
 
-## 📈 Etapas do Projeto
+## Etapas do Projeto
 
 1. Importação dos dados
 2. Análise exploratória
@@ -51,14 +51,14 @@ Base de dados utilizada:
 
 ---
 
-## 💡 Hipóteses
+## Hipóteses
 
 * Características estruturais influenciam o consumo energético
 * Existe variabilidade significativa nos dados
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Abra o notebook no Google Colab
 2. Execute todas as células
@@ -66,7 +66,7 @@ Base de dados utilizada:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Danilo BM
 
