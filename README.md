@@ -60,7 +60,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00242/ENB2012_data.xls
 
 ## Como Executar
 
-1. Abra o notebook no Google Colab
+1. Abra o notebook no Google Colab: https://colab.research.google.com/drive/1FELZNJfCM__ii6jYGAcgWGfr3fz90eaQ?usp=sharing
 2. Execute todas as células
 3. Analise os resultados gerados
 
